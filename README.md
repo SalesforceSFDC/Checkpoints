@@ -9,3 +9,4 @@ em.sendMail('Enter your email address', 'Flight Path Change',
    'Mission Control 123: Your flight path has been changed to avoid collision '
    + 'with asteroid 2014 QO441.');
 ```
+* A SOQL query that you execute using Apex code is called an inline SOQL query.
